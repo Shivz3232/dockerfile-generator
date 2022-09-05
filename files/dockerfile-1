@@ -1,4 +1,4 @@
-# dynamic dockerfile creation
+
 FROM ubuntu
 WORKDIR /
 RUN ls
